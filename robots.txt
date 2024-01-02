@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://bart-coin.com/sitemap.xml
+Sitemap: https://bart-coin.com/sitemap.rss
+
